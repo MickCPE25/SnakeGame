@@ -11,4 +11,4 @@ namespace SnakeGame
         void setController(Controller c);
         void Notify(Model m);
     }
-}
+} 
